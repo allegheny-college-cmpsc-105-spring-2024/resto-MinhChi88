@@ -1,21 +1,15 @@
 ---
 layout: page
-title: amazing menu
+title: Our nail studio services
 permalink: /menu
 nav: true
 ---
 
-## menu
+### Price List
+Affordable - Quality
+![Price List](./assets/images/Price_list.png)
 
-this is the menu
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+![GelX Korean Nails Daisy Design](./assets/images/Inspo_1.jpeg)
+## GelX Korean Nails Daisy Design: $45
 
-### menu item 1
-
-#### lettuce
-
-- price: $100
-
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
