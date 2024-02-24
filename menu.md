@@ -1,21 +1,20 @@
 ---
 layout: page
-title: amazing menu
+title: Our nail studio services
 permalink: /menu
 nav: true
 ---
 
-## menu
+### Price List
+Affordable - Quality
+![Price List](./assets/images/Price_list.png)
 
-this is the menu
+## Inspo
+GelX Korean Nails Daisy Design: $45
+![GelX Korean Nails Daisy Design](./assets/images/Inspo_1.jpeg)
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+Hard Gel Extension Red nails with chrome: $41
+![Hard Gel Extension Red nails with chrome](./assets/images/Inspo_2.jpeg)
 
-### menu item 1
-
-#### lettuce
-
-- price: $100
-
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+GelX Extension Pink Christmas: $45
+![GelX Extension Christmas nails idea](./assets/images/Inspo_3.jpeg)
